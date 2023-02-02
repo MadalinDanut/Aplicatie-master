@@ -1,0 +1,3 @@
+madalin pwd1 true true
+jenny pwd2 true false
+danut pwd3 flase false
